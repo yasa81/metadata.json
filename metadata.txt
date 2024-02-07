@@ -1,0 +1,7 @@
+{
+  "name": "yasa",
+  "website": "https://github.com/yasa81",
+  "description": "I am artist",
+  "logo": "https://r.resimlink.com/jQVnD-zqPfw7.png",
+  "twitter": "https://twitter.com/yasa81"
+}
